@@ -1,0 +1,5 @@
+{
+  "name": "transcritor johaziel 2.0",
+  "description": "Uma aplicação moderna para transcrição de áudio e vídeo utilizando o modelo Gemini 2.5 Flash. Suporta múltiplos idiomas com foco em Português.",
+  "requestFramePermissions": []
+}
